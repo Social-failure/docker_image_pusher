@@ -1,4 +1,2 @@
-#支持私库
-opengrok/docker
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 confluentinc/cp-zookeeper
+--platform=linux/arm64 confluentinc/cp-kafka
