@@ -1,2 +1,3 @@
---platform=linux/arm64 confluentinc/cp-zookeeper
---platform=linux/arm64 confluentinc/cp-kafka
+confluentinc/cp-zookeeper
+
+confluentinc/cp-kafka
