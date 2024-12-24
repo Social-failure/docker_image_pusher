@@ -1,2 +1,1 @@
-confluentinc/cp-zookeeper
-confluentinc/cp-kafka
+--platform=linux/amd64 apache/kafka
