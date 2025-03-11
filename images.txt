@@ -1,1 +1,2 @@
-postgres:14
+redis
+apache/kafka:3.9.0
