@@ -1,4 +1,1 @@
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
-langgenius/dify-plugin-daemon:0.0.7-local
-oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
+nginx:latest
