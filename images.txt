@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.11
+nvidia/cuda:11.8-devel-ubi8
