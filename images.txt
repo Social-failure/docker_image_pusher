@@ -1,1 +1,1 @@
-nginx:latest
+python:3.10.17-slim
